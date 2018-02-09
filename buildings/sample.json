@@ -1,0 +1,112 @@
+{
+    "floors": [
+        {
+            "type": "ground"
+        },
+        {
+            "type": "factory",
+            "working-time": {
+                "in": {
+                    "8": 1
+                },
+                "out": {
+                    "17": 1
+                }
+            },
+            "lunch-break": {
+                "from": 12,
+                "to": 13
+            }
+        }, {
+            "type": "company",
+            "working-time": {
+                "in": {
+                    "21": 1
+                },
+                "out": {
+                    "5": 1
+                }
+            },
+            "lunch-break": {
+                "from": 0,
+                "to": 1
+            }
+        }, {
+            "type": "company",
+            "working-time": {
+                "in": {
+                    "21": 1
+                },
+                "out": {
+                    "5": 1
+                }
+            },
+            "lunch-break": {
+                "from": 12,
+                "to": 13
+            }
+        }, {
+            "type": "company",
+            "working-time": {
+                "in": {
+                    "9": 1
+                },
+                "out": {
+                    "17": 1
+                }
+            },
+            "lunch-break": {
+                "from": 12,
+                "to": 13
+            }
+        }, {
+            "type": "mall",
+            "working-time": {
+                "in": {
+                    "10": 1
+                },
+                "out": {
+                    "22": 1
+                }
+            }
+        }, {
+            "type": "offday-company",
+            "working-time": {
+                "in": {
+                    "8": 1
+                },
+                "out": {
+                    "17": 1
+                }
+            },
+            "lunch-break": {
+                "from": 12,
+                "to": 13
+            }
+        }, {
+            "type": "theatre",
+            "working-time": {
+                "in": {
+                    "10": 1
+                },
+                "out": {
+                    "2": 1
+                }
+            }
+        }, {
+            "type": "company",
+            "working-time": {
+                "in": {
+                    "8": 1
+                },
+                "out": {
+                    "17": 1
+                }
+            },
+            "lunch-break": {
+                "from": 12,
+                "to": 13
+            }
+        }
+    ]
+}
